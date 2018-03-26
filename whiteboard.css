@@ -40,7 +40,7 @@ main {
 .main-content .content {
     border: 2px solid black;
     grid-area: content;
-};
+}
    /* Dummy cards section inside content of the main content */
 .main-content .dummy-cards {
     border: 2px solid black;
